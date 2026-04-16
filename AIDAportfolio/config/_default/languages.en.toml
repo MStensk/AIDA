@@ -1,0 +1,26 @@
+disabled = false
+locale = "en"
+label = "English"
+weight = 1
+title = "Portfolio"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+   name = "Mathias Færch Stensler"
+   email = "mathias_stensler@live.dk"
+   image = "img/blowfish_logo.png"
+   imageQuality = 96
+   headline = "AIDA"
+   bio = "Portfolio for the subject"
+   links = [
+     { email = "mailto:cph-ms1388@stud.ek.dk" },
+   ]
